@@ -1,0 +1,14 @@
+petroleum-data-analysis-portfolio/
+│
+├── README.md
+│
+├── production-analysis/
+│   ├── decline-curve-analysis.ipynb
+│   ├── multi-well-benchmarking.ipynb
+│
+├── drilling-analytics/
+│   ├── drilling-performance-analysis.ipynb
+│
+├── data/
+│   ├── sample_production_data.csv
+│   ├── sample_drilling_data.csv
